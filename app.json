@@ -1,21 +1,21 @@
 {
-  "name": "𝐒𝐈𝐋𝐕𝐀 𝐌𝐃 𝐁𝐎𝐓",
-  "description": " with great power comes with great responsibilities. follow the deployment process below..",
+  "name": "SKIDDYBMX BOT",
+  "description": " bmx bot with stable speed 🚄 ..",
   "keywords": [
     "whatsapp bot"
   ],
-  "repository": "https://github.com/SilvaTechB/silva-md-bot",
+  "repository": "https://github.com/fel255/felician_xmd_1",
   "stack": "container",
   "env": {
     "OWNERS": {
       "description": "owner numbers",
       "required": true,
-      "value": "254743706010;𝐒𝐈𝐋𝐕𝐀 𝐌𝐃 𝐁𝐎𝐓"
+      "value": "255619712382"
     },
     "BOTNAME": {
       "description": "Give your BOT a name",
       "required": true,
-      "value": "SILVA-MD-BOT©®"
+      "value": "felician_xmd_1©®"
     },
     "SESSION_ID": {
       "description": "your session id. get session here https://silva-session-selector.vercel.app/",
@@ -85,7 +85,7 @@
     "STATUS_MSG": {
       "description": "custmize with your message",
       "required": false,
-      "value": "SILVA MD BOT SUCCESSFULLY VIEWED YOUR STATUS 💖💚"
+      "value": "xmd BOT SUCCESSFULLY VIEWED YOUR STATUS 💖💚"
     },
     "antidelete": {
       "description": "bot will forward deleted messages if you make it true",
