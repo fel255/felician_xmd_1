@@ -281,7 +281,7 @@ if (pairingCode && !conn.authState.creds.registered) {
 
     if (!Object.keys(PHONENUMBER_MCC).some(v => phoneNumber.startsWith(v))) {
       console.log(
-        chalk.bgBlack(chalk.redBright("Start with your country's WhatsApp code, Example : 254xxx"))
+        chalk.bgBlack(chalk.redBright("Start with your country's WhatsApp code, Example : 255xxx"))
       )
       process.exit(0)
     }
@@ -293,7 +293,7 @@ if (pairingCode && !conn.authState.creds.registered) {
 
     if (!Object.keys(PHONENUMBER_MCC).some(v => phoneNumber.startsWith(v))) {
       console.log(
-        chalk.bgBlack(chalk.redBright("Start with your country's WhatsApp code, Example : 254xxx"))
+        chalk.bgBlack(chalk.redBright("Start with your country's WhatsApp code, Example : 255xxx"))
       )
 
       phoneNumber = await question(
@@ -388,11 +388,11 @@ async function connectionUpdate(update) {
 
   if (connection === 'open') {
     const { jid, name } = conn.user
-    const msg = `💖𝑺𝑰𝑳𝑽𝑨 𝑴𝑫 𝑩𝑶𝑻💖 \n\nGreetings ${name}, ✅ Congrats you have successfully deployed *Silva MD Bot* \n\n if your bot sent a message to 254743706010 it is running perfect\n if not relink using silva tech session gen\n ⚙️ *Prefix:*\n 🏢 *Organization:* *Silva Tech Inc.* \n 🗓️ *CREATED:* *Sep 2024* \n\n 🌟 *Follow our WhatsApp Channel for updates:* \n https://whatsapp.com/channel/0029VaAkETLLY6d8qhLmZt2v \n\n 🔄 *New features coming soon. Stay tuned!* \n\n Developer Sylivanus Momanyi\nfounder of Silva Tech Inc`
+    const msg = `🚨felician_xmd_1🚨 \n\nGreetings ${name}, ✅ Congrats you have successfully deployed *felician_xmd_1* \n\n if your bot sent a message to 255619712382 it is running perfect\n if not relink using felician session gen\n ⚙️ *Prefix:*\n 🏢 *Organization:* *SKIDDYBMX* \n 🗓️ *CREATED:* *Sep 2024* \n\n 🌟 *Follow our WhatsApp Channel for updates:* \n https://whatsapp.com/channel/0029VbB4Afi7Noa6lEDYhj3G \n\n 🔄 *New features coming soon. Stay tuned!* \n\n Developer Sylivanus Momanyi\nfounder of Felician Inc`
 
     await conn.sendMessage(jid, { text: msg, mentions: [jid] }, { quoted: null })
 
-    conn.logger.info(chalk.yellow('\nSilva is on 𝖶𝖮𝖱𝖪'))
+    conn.logger.info(chalk.yellow('\nskiddxmd is on 𝖶𝖮𝖱𝖪'))
   }
 
   if (connection === 'close') {
@@ -589,7 +589,7 @@ setInterval(saafsafai, 10 * 60 * 1000)
 _quickTest().catch(console.error)
 
 //..
-//silva tech inc product
+//felician product
 
 
-// code crafted by silva
+// code crafted by felician
