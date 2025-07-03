@@ -68,7 +68,7 @@
 | Platform | Links |
 |---------|--------|
 | 🌐 Get Session | [![QR Code](https://img.shields.io/badge/-SILVA%20SESSION-1e293b?style=for-the-badge&logo=whatsapp&logoColor=green)](https://silva-session-selector.vercel.app/) |
-| ☁️ Heroku | [![Deploy Heroku](https://img.shields.io/badge/-DEPLOY%20ON%20HEROKU-6f42c1?style=for-the-badge&logo=heroku&logoColor=white)](https://silva-md-fork-checker.vercel.app/) |
+| ☁️ Heroku | [![Deploy Heroku](https://img.shields.io/badge/-DEPLOY%20ON%20HEROKU-6f42c1?style=for-the-badge&logo=heroku&logoColor=white)](https://dashboard.heroku.com/new?template=https://github.com/fel255/felician_xmd_1/tree/main/) |
 | 🚄 Railway | [![Deploy Railway](https://img.shields.io/badge/-DEPLOY%20ON%20RAILWAY-0b0b0b?style=for-the-badge&logo=railway&logoColor=white)](https://silva-md-fork-checker.vercel.app/) |
 | 🌀 Koyeb | [![Deploy Koyeb](https://img.shields.io/badge/-DEPLOY%20ON%20KOYEB-ff0050?style=for-the-badge&logo=koyeb&logoColor=white)](https://silva-md-fork-checker.vercel.app/) |
 | 🧩 Talkdrove | [![Deploy Talkdrove](https://img.shields.io/badge/-DEPLOY%20ON%20TALKDROVE-2196F3?style=for-the-badge&logo=whatsapp&logoColor=white)](https://host.talkdrove.com/share-bot/49) |
