@@ -1,8 +1,8 @@
 {
-    "name": "SILVA MD",
+    "name": "felician_xmd_1",
     "version": "4.0.1",
-    "description": "Silva MD Bot is a powerful, multi-functional WhatsApp bot designed for moderation, automation, media tools, and smart AI features — all in one seamless experience. Built for performance, secured for trust. 🚀",
-  "main": "silva.js",
+    "description": "xmd bot,stable and powerful bot. 🚀",
+  "main": "felician.js",
   "type": "module",
   "directories": {
     "lib": "lib",
@@ -13,30 +13,30 @@
     "node": ">=20.0.0"
   },
   "scripts": {
-    "start": "node silva.js",
-    "test": "node silvamd.js"
+    "start": "node felician.js",
+    "test": "node felician.js"
   },
   "keywords": [
-    "silva-bot",
+    "felician",
     "whatsapp-bot",
     "baileys-md",
     "multi-device",
     "js-whatsapp",
     "guru-bot",
-    "silva-md"
+    "felician"
   ],
-  "homepage": "https://github.com/SilvaTechB/silva-md-bot",
+  "homepage": "https://github.com/fel255/felician_xmd_1",
   "author": {
     "name": "GURU",
-    "email": "sylivanus.silva@gmail.com",
-    "url": "https://github.com/SilvaTechB"
+    "email": "feliciandehecker@gmail.com",
+    "url": "https://github.com/fel255"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SilvaTechB/silva-md-bot.git"
+    "url": "git+https://github.com/fel255/felician_xmd_1.git"
   },
   "bugs": {
-    "url": "https://github.com/SilvaTechB/silva-md-bot/issues"
+    "url": "https://github.com/fel255/felician_xmd_1/issues"
   },
   "license": "Apache-2.0",
   "dependencies": {
