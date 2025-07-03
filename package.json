@@ -2,7 +2,7 @@
     "name": "felician",
     "version": "4.0.1",
     "description": "Silva MD Bot is a powerful, multi-functional WhatsApp bot designed for moderation, automation, media tools, and smart AI features — all in one seamless experience. Built for performance, secured for trust. 🚀",
-  "main": "felician.js",
+  "main": "silva.js",
   "type": "module",
   "directories": {
     "lib": "lib",
